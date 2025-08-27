@@ -1,0 +1,11 @@
+dream-journal-tests/
+├── pages/
+│   ├── HomePage.js
+│   ├── DiaryPage.js
+│   └── TotalPage.js
+├── tests/
+│   └── test.spec.js
+├── playwright.config.js
+├── package.json
+├── README.md
+└── .gitignore
