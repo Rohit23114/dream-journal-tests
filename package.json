@@ -1,0 +1,11 @@
+{
+  "name": "dream-journal-tests",
+  "version": "1.0.0",
+  "description": "Automated tests for dream journaling website",
+  "devDependencies": {
+    "@playwright/test": "^1.45.0"
+  },
+  "scripts": {
+    "test": "playwright test"
+  }
+}
